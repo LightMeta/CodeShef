@@ -1,2 +1,2 @@
 # CodeShef
-CodeShef Competition Codes in Python 3 with Comments
+CodeShef Competition Codes in Python 3 with Comments and Algorithims.
